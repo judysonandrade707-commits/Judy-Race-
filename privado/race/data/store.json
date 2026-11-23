@@ -1,0 +1,8 @@
+{
+  "next_id": 1,
+  "drags": [],
+  "songs": {
+    "Nacional": ["Música Nacional 1", "Música Nacional 2", "Música Nacional 3", "Música Nacional 4", "Música Nacional 5", "Música Nacional 6"],
+    "Internacional": ["Música Internacional 1", "Música Internacional 2", "Música Internacional 3", "Música Internacional 4", "Música Internacional 5", "Música Internacional 6"]
+  }
+}
