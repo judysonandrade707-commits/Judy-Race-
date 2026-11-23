@@ -1,0 +1,100 @@
+{
+  "next_id": 6,
+  "drags": [
+    {
+      "id": 1,
+      "name": "Judyada",
+      "group": "Internacional",
+      "photo": "",
+      "scores": {
+        "BEST LOOK": 10
+      },
+      "ranking": [
+        "EDEN",
+        "The boy",
+        "PERFECT",
+        "CUNT",
+        "COMMANDER",
+        "FATE"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "THiogra",
+      "group": "Internacional",
+      "photo": "",
+      "scores": {
+        "BEST LOOK": 6
+      },
+      "ranking": [
+        "EDEN",
+        "CUNT",
+        "The boy",
+        "PERFECT",
+        "FATE",
+        "COMMANDER"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sasa",
+      "group": "Internacional",
+      "photo": "",
+      "scores": {
+        "BEST LOOK": 8
+      },
+      "ranking": [
+        "EDEN",
+        "PERFECT",
+        "FATE",
+        "CUNT",
+        "The boy",
+        "COMMANDER"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Starla",
+      "group": "Internacional",
+      "photo": "",
+      "scores": {
+        "BEST LOOK": 10
+      },
+      "ranking": [
+        "COMMANDER",
+        "CUNT",
+        "The boy",
+        "PERFECT",
+        "FATE",
+        "EDEN"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Moo",
+      "group": "Internacional",
+      "photo": "",
+      "scores": {
+        "BEST LOOK": 0
+      }
+    }
+  ],
+  "songs": {
+    "Internacional": [
+      "The boy",
+      "CUNT",
+      "EDEN",
+      "FATE",
+      "COMMANDER",
+      "PERFECT"
+    ],
+    "Nacional": [
+      "Música Nacional 1",
+      "Música Nacional 2",
+      "Música Nacional 3",
+      "Música Nacional 4",
+      "Música Nacional 5",
+      "Música Nacional 6"
+    ]
+  }
+}
